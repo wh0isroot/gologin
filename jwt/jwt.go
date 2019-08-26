@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Sirupsen/logrus"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/dgrijalva/jwt-go/request"
+	"github.com/sirupsen/logrus"
 )
 
 //Config include secret

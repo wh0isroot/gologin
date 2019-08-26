@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"golang.org/x/oauth2"
 )
 
